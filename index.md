@@ -16,15 +16,26 @@ We ended up creating separate apps for each user group, with mobile (both iOS an
 
 I began by understanding each user's unique needs. We conducted interviews and went on-site to see how the whole business ran and get an in-depth view of what problems we had to solve. I then constructed user stories and paper wireframes. After running the paper frames by our client, I mapped out all user flows, specifications, and made both static and interactive wireframes for the engineers. We iterated multiple times on them. The work presented here is near the end of the process, but not the final versions.
 
-![paper wireframes](/assets/WLH customer UI paper.png)
-
 The [customer](https://play.google.com/store/apps/details?id=com.wlhtest) and [driver](https://play.google.com/store/apps/details?id=com.wlhdriver) apps can be found easily in the Google store.
 
-### [Wireframes](https://drive.google.com/file/d/0B-EC9yTYBQmjVVpPczk0SkJlQ0k/view?usp=sharing) and [Mockups](https://drive.google.com/file/d/0B-EC9yTYBQmjQ29jXzF3ZzdoU2c/view?usp=sharing)
-Both mobile and web navigation.
+### Wireframes
+Paper wireframe example:
+![paper wireframes](/assets/WLH customer UI paper.png)
 
-### [InVision prototype](https://invis.io/HEBDTK66V)
-Mobile interactive prototype.
+*Interactive wireframes:*
+* [Admin desktop app](https://xd.adobe.com/view/4944651d-7097-4e9b-af06-320e25f8e0e8/)
+* [Driver mobile app](https://xd.adobe.com/view/f32e685f-7b64-4666-98a0-b93d8f3b8d2a/)
+* [Customer mobile app](https://xd.adobe.com/view/32a52546-8853-4945-b626-5f752f0ff57f/)
+
+### User Flows
+*Admin flowchart*
+![admin flowchart](/assets/WLH Admin Flows.png)
+
+*Driver flowchart*
+![driver flowchart](/assets/WLH Driver Flows 3.png)
+
+*Customer flowchart*
+![customer flowchart](/assets/WLH Customer Flows 3.png)
 
 ### Cheers~
 
